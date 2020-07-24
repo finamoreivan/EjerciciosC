@@ -72,6 +72,7 @@ NUMERO    CUADRADO  CUBO
 32.	Se registran de los empleados de una empresa Número de legajo, sueldo y sexo (1 femenino y 2 masculino). Diseñar un Pseudocódigo y codificar en C un algoritmo que permita informar cuantas mujeres ganan más de $16000 y cuantos hombres ganan menos de $10000. 
 
 MAXIMOS Y MINIMOS
+
 33.	Se ingresa por teclado la cantidad de agua caída, en milímetros día a día durante un mes. Se pide determinar el día de mayor lluvia, el de menor y el promedio. 
 
 34.	Hacer un algoritmo que imprima el mayor y el menor de una serie de 5 números que vamos introduciendo por teclado.7
