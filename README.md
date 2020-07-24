@@ -50,11 +50,10 @@
 
     NUMERO               CUADRADO          CUBO
 
-      1                     1                1  
-      
-      2                     4                8      
-
-      3                     9               27
+	1						1				1
+	2						4				8
+	3						9				27
+	
 
 25.	Diseñar en Pseudocodigo y codificar en C un algoritmo que permita registrar de los empleados de una fábrica (no se sabe cuántos) su peso y saber cuántos pesan hasta 80 Kg. Inclusive y cuántos pesan más de 80 kg.
 
